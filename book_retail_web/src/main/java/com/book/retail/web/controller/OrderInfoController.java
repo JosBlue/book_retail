@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 @RequestMapping("/order")
-public class OrderInfoController extends BaseController {
+public class OrderInfoController{
 
     @Autowired
     OrderInfoService orderInfoService;
