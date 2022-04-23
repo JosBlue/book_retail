@@ -1,0 +1,1074 @@
+14:17:51.448 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 925 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:17:51.463 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:17:55.305 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:17:55.305 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:17:55.306 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:17:55.306 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:17:55.331 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.281 seconds (JVM running for 5.81)
+14:17:55.383 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:17:55.595 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:17:55.655 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:17:55.660 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:18:19.739 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 935 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:18:19.746 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:18:23.647 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:18:23.648 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:18:23.648 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:18:23.649 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:18:23.675 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.406 seconds (JVM running for 6.168)
+14:18:23.725 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:18:23.958 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:18:47.500 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53s541ms).
+14:18:47.654 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:18:47.670 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:19:40.456 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 974 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:19:40.463 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:19:44.154 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:19:44.155 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:19:44.156 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:19:44.156 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:19:44.187 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.227 seconds (JVM running for 5.541)
+14:20:14.675 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:20:14.984 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:20:32.541 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47s557ms).
+14:20:32.612 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:20:32.619 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:20:56.760 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1006 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:20:56.767 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:21:00.702 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:21:00.703 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:21:00.704 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:21:00.704 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:21:00.731 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.643 seconds (JVM running for 5.908)
+14:21:00.766 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:21:00.970 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:21:22.759 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:21:22.779 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:22:07.914 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1042 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:22:07.922 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:22:12.220 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:22:12.221 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:22:12.221 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:22:12.222 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:22:12.249 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.872 seconds (JVM running for 6.295)
+14:22:12.289 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:22:12.536 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:22:22.093 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:22:22.102 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:26:43.297 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1264 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:26:43.302 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:26:46.992 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:26:46.993 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:26:46.993 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:26:46.993 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:26:47.021 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.23 seconds (JVM running for 5.626)
+14:26:47.279 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:26:47.535 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:26:47.721 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:26:47.733 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:28:43.248 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1306 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:28:43.255 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:28:47.221 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:28:47.222 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:28:47.223 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:28:47.223 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:28:47.248 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.456 seconds (JVM running for 5.899)
+14:28:47.493 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:28:47.691 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:28:47.882 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:28:47.892 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:30:34.709 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1332 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:30:34.716 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:30:38.332 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:30:38.333 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:30:38.333 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:30:38.334 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:30:38.356 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.192 seconds (JVM running for 5.422)
+14:30:38.563 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:30:38.819 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:30:38.911 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:30:38.918 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:31:18.031 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1353 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:31:18.039 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:31:21.025 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:31:21.025 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:31:21.026 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:31:21.026 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:31:21.046 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 3.523 seconds (JVM running for 4.375)
+14:31:21.211 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:31:21.395 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:31:21.496 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:31:21.502 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:32:09.780 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1371 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:32:09.789 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:32:13.771 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:32:13.772 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:32:13.772 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:32:13.772 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:32:13.797 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.597 seconds (JVM running for 5.912)
+14:32:13.985 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:32:14.193 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:32:14.291 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:32:14.320 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:38:40.204 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1490 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:38:40.210 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:38:43.632 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:38:43.633 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:38:43.633 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:38:43.634 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:38:43.656 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 3.925 seconds (JVM running for 5.21)
+14:38:43.926 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:38:44.123 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:38:44.219 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:38:44.223 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:41:24.718 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1546 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:41:24.725 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:41:28.108 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:41:28.108 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:41:28.109 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:41:28.109 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:41:28.131 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 3.845 seconds (JVM running for 4.987)
+14:41:28.322 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:41:28.566 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:41:28.720 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:41:28.730 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:43:52.867 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1598 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:43:52.874 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:43:56.463 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:43:56.464 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:43:56.464 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:43:56.465 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:43:56.488 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.206 seconds (JVM running for 5.331)
+14:43:56.682 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:43:56.896 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:43:57.091 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:43:57.104 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:44:29.729 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1610 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:44:29.735 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:44:33.423 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:44:33.424 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:44:33.425 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:44:33.425 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:44:33.447 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.204 seconds (JVM running for 5.52)
+14:44:33.705 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:44:33.936 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:44:34.135 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:44:34.148 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:51:10.762 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1751 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:51:10.768 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:51:14.020 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:51:14.021 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:51:14.021 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:51:14.021 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:51:14.042 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 3.723 seconds (JVM running for 5.071)
+14:51:14.260 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:51:14.448 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:51:14.534 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:51:14.538 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+14:51:35.507 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 1758 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+14:51:35.514 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+14:51:38.908 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+14:51:38.908 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+14:51:38.909 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+14:51:38.909 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+14:51:38.930 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 3.901 seconds (JVM running for 5.077)
+14:51:39.120 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:51:39.334 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:51:51.758 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+14:51:51.768 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:00:00.463 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 1979 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+15:00:00.469 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+15:00:04.293 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+15:00:04.294 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+15:00:04.294 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+15:00:04.295 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+15:00:04.317 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 4.369 seconds (JVM running for 5.662)
+15:00:04.609 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:00:04.859 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:00:04.959 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:00:04.963 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:06:34.919 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 2087 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+15:06:34.926 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+15:06:38.850 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+15:06:38.851 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+15:06:38.851 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+15:06:38.851 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+15:06:38.874 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 4.464 seconds (JVM running for 5.742)
+15:06:39.152 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:06:39.382 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:06:39.542 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:06:39.591 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:07:51.827 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 2111 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+15:07:51.833 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+15:07:55.123 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+15:07:55.125 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+15:07:55.125 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+15:07:55.126 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+15:07:55.151 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 3.839 seconds (JVM running for 4.996)
+15:07:55.406 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:07:55.611 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:07:55.754 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:07:55.763 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:20:22.855 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 2496 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+15:20:22.861 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+15:20:26.896 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+15:20:26.897 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+15:20:26.897 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+15:20:26.898 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+15:20:26.924 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 4.603 seconds (JVM running for 6.573)
+15:20:27.230 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:20:27.463 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:20:27.669 [Thread-21] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.674 [Thread-22] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.676 [Thread-7] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.680 [Thread-17] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.685 [Thread-20] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.736 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.738 [Thread-15] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.740 [Thread-4] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.743 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.746 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:20:27.746 [Thread-3] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.755 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:21:11.289 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 2511 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+15:21:11.295 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+15:21:14.731 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+15:21:14.732 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+15:21:14.733 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+15:21:14.733 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+15:21:14.754 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 3.997 seconds (JVM running for 5.236)
+15:21:14.977 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:21:15.209 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:21:15.451 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:21:15.461 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:49:34.854 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 3039 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+15:49:34.860 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+15:49:38.653 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+15:49:38.654 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+15:49:38.654 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+15:49:38.655 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+15:49:38.677 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 4.324 seconds (JVM running for 5.677)
+15:49:38.977 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:49:39.258 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:49:39.381 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:4
+15:49:39.383 [Thread-11] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:4
+15:49:39.386 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:3
+15:49:39.392 [Thread-7] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:2
+15:49:39.395 [Thread-4] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:4
+15:49:39.398 [Thread-9] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:1
+15:49:39.400 [Thread-3] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:4
+15:50:14.633 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:50:14.643 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:51:13.024 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 3081 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+15:51:13.031 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+15:51:16.407 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+15:51:16.408 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+15:51:16.409 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+15:51:16.409 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+15:51:16.435 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 3.953 seconds (JVM running for 5.066)
+15:51:16.673 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:51:16.869 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:51:17.006 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:16...num:3
+15:51:17.017 [Thread-3] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:16...num:2
+15:51:17.019 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:16...num:3
+15:51:34.021 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:51:34.034 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:53:34.448 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 3121 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+15:53:34.455 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+15:53:37.901 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+15:53:37.901 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+15:53:37.902 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+15:53:37.902 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+15:53:37.923 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 4.112 seconds (JVM running for 5.272)
+15:53:38.155 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:53:38.388 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:53:38.527 [Thread-3] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:17...num:4
+15:53:38.529 [Thread-3] ERROR com.book.retail.BookInfoServiceTest - Thread-3购买失败...购买数量：4
+15:53:38.532 [Thread-7] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:17...num:5
+15:53:38.533 [Thread-7] ERROR com.book.retail.BookInfoServiceTest - Thread-7购买失败...购买数量：5
+15:53:38.540 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:17...num:5
+15:53:38.540 [Thread-8] ERROR com.book.retail.BookInfoServiceTest - Thread-8购买失败...购买数量：5
+15:53:38.648 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:53:38.658 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+15:55:26.974 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 3162 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+15:55:26.981 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+15:55:30.763 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+15:55:30.763 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+15:55:30.764 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+15:55:30.764 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+15:55:30.788 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 4.387 seconds (JVM running for 5.747)
+15:55:31.123 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:55:31.370 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:55:31.500 [Thread-11] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:3
+15:55:31.502 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:4
+15:55:31.503 [Thread-11] ERROR com.book.retail.BookInfoServiceTest - Thread-11=购买失败...购买数量：3
+15:55:31.503 [Thread-6] ERROR com.book.retail.BookInfoServiceTest - Thread-6=购买失败...购买数量：4
+15:55:31.505 [Thread-10] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:1
+15:55:31.506 [Thread-10] ERROR com.book.retail.BookInfoServiceTest - Thread-10=购买失败...购买数量：1
+15:55:31.507 [Thread-5] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:4
+15:55:31.509 [Thread-5] ERROR com.book.retail.BookInfoServiceTest - Thread-5=购买失败...购买数量：4
+15:55:31.510 [Thread-3] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:3
+15:55:31.511 [Thread-3] ERROR com.book.retail.BookInfoServiceTest - Thread-3=购买失败...购买数量：3
+15:55:31.513 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:1
+15:55:31.514 [Thread-12] ERROR com.book.retail.BookInfoServiceTest - Thread-12=购买失败...购买数量：1
+15:55:31.632 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+15:55:31.642 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:10:58.191 [main] INFO  com.book.retail.OrderInfoServiceTest - Starting OrderInfoServiceTest on LHPro.local with PID 3448 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+16:10:58.198 [main] INFO  com.book.retail.OrderInfoServiceTest - No active profile set, falling back to default profiles: default
+16:11:02.083 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:11:02.083 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:11:02.084 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:11:02.084 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+16:11:02.108 [main] INFO  com.book.retail.OrderInfoServiceTest - Started OrderInfoServiceTest in 4.449 seconds (JVM running for 5.748)
+16:11:02.450 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:11:02.689 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:11:02.872 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:11:02.888 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:14:46.896 [main] INFO  com.book.retail.OrderInfoServiceTest - Starting OrderInfoServiceTest on LHPro.local with PID 3510 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+16:14:46.903 [main] INFO  com.book.retail.OrderInfoServiceTest - No active profile set, falling back to default profiles: default
+16:14:50.609 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:14:50.610 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:14:50.610 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:14:50.611 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+16:14:50.633 [main] INFO  com.book.retail.OrderInfoServiceTest - Started OrderInfoServiceTest in 4.258 seconds (JVM running for 5.582)
+16:14:50.929 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:14:51.187 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:14:51.361 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:14:51.372 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:16:17.404 [main] INFO  com.book.retail.OrderInfoServiceTest - Starting OrderInfoServiceTest on LHPro.local with PID 3544 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+16:16:17.411 [main] INFO  com.book.retail.OrderInfoServiceTest - No active profile set, falling back to default profiles: default
+16:16:20.864 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:16:20.865 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:16:20.866 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:16:20.866 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+16:16:20.891 [main] INFO  com.book.retail.OrderInfoServiceTest - Started OrderInfoServiceTest in 4.05 seconds (JVM running for 5.28)
+16:16:21.155 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:16:21.386 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:16:21.559 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:16:21.573 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:32:10.651 [main] INFO  com.book.retail.OrderInfoServiceTest - Starting OrderInfoServiceTest on LHPro.local with PID 3816 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+16:32:10.657 [main] INFO  com.book.retail.OrderInfoServiceTest - No active profile set, falling back to default profiles: default
+16:32:13.878 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:32:13.879 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:32:13.879 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:32:13.879 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+16:32:13.898 [main] INFO  com.book.retail.OrderInfoServiceTest - Started OrderInfoServiceTest in 3.664 seconds (JVM running for 5.101)
+16:32:14.144 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:32:14.343 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:32:14.524 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:32:14.536 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:34:23.639 [main] INFO  com.book.retail.OrderInfoServiceTest - Starting OrderInfoServiceTest on LHPro.local with PID 3856 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+16:34:23.645 [main] INFO  com.book.retail.OrderInfoServiceTest - No active profile set, falling back to default profiles: default
+16:34:26.613 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:34:26.614 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:34:26.614 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:34:26.614 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+16:34:26.634 [main] INFO  com.book.retail.OrderInfoServiceTest - Started OrderInfoServiceTest in 3.415 seconds (JVM running for 4.573)
+16:34:26.811 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:34:26.968 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:34:27.151 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:34:27.163 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:34:50.832 [main] INFO  com.book.retail.OrderInfoServiceTest - Starting OrderInfoServiceTest on LHPro.local with PID 3864 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+16:34:50.839 [main] INFO  com.book.retail.OrderInfoServiceTest - No active profile set, falling back to default profiles: default
+16:34:53.845 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:34:53.846 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:34:53.846 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:34:53.846 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+16:34:53.867 [main] INFO  com.book.retail.OrderInfoServiceTest - Started OrderInfoServiceTest in 3.502 seconds (JVM running for 4.43)
+16:34:54.046 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:34:54.231 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:34:54.391 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:34:54.404 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:36:13.057 [main] INFO  com.book.retail.OrderInfoServiceTest - Starting OrderInfoServiceTest on LHPro.local with PID 3893 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+16:36:13.062 [main] INFO  com.book.retail.OrderInfoServiceTest - No active profile set, falling back to default profiles: default
+16:36:16.882 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:36:16.883 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:36:16.884 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:36:16.884 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+16:36:16.912 [main] INFO  com.book.retail.OrderInfoServiceTest - Started OrderInfoServiceTest in 4.391 seconds (JVM running for 5.726)
+16:36:17.212 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:36:17.462 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:36:17.632 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:36:17.647 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:36:26.901 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 3897 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+16:36:26.906 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+16:36:28.152 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+16:36:28.161 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:36:28.161 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+16:36:28.238 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+16:36:28.339 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:36:29.459 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+16:36:29.460 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+16:36:29.460 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+16:36:29.460 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+16:36:29.486 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+16:36:29.523 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.067 seconds (JVM running for 3.982)
+16:37:03.930 [http-nio-8088-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:37:04.003 [http-nio-8088-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:37:04.141 [http-nio-8088-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+17:03:45.526 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+17:03:45.539 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+17:05:13.279 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 4404 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:05:13.285 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:05:14.707 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:05:14.714 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:05:14.715 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:05:14.722 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:05:14.882 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:05:14.944 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+17:05:32.694 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 4417 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:05:32.701 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:05:33.815 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:05:33.822 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:05:33.823 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:05:33.829 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:05:33.951 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:05:35.319 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:05:35.319 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:05:35.320 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:05:35.320 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:05:35.368 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:05:35.408 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.242 seconds (JVM running for 3.968)
+17:05:52.207 [http-nio-8088-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:07:31.170 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 4475 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:07:31.177 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:07:32.385 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:07:32.392 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:07:32.392 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:07:32.399 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:07:32.543 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:07:33.662 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:07:33.663 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:07:33.663 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:07:33.664 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:07:33.690 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:07:33.723 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.11 seconds (JVM running for 3.868)
+17:07:42.251 [http-nio-8088-exec-6] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:09:03.698 [http-nio-8088-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+17:09:03.715 [http-nio-8088-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+17:09:03.775 [http-nio-8088-exec-7] ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: org.h2.jdbc.JdbcSQLException: Table "ORDER_INFO" not found; SQL statement:
+SELECT
+            ori.id AS orderId,
+            ori.created AS orderCreateTime,
+            ori.user_info_id AS userId,
+            uri.user_name AS userName,
+        CASE
+                uri.user_type
+                WHEN 1 THEN
+                '金牌会员'
+                WHEN 2 THEN
+                '银牌会员' ELSE '铜牌会员'
+            END  AS userType,
+            ori.book_id AS bookId,
+            boi.book_name AS bookName,
+            boi.book_price AS price,
+            ori.num AS num,
+            ori.total_price AS totalPrice
+        FROM
+            order_info ori
+            INNER JOIN book_info boi ON boi.id = ori.book_id
+            AND boi.yn = 1
+            INNER JOIN user_info uri ON uri.id = ori.user_info_id
+            AND uri.yn = 1
+        WHERE
+            ori.yn = 1
+        AND
+            ori.id = ? [42102-197]
+### The error may exist in file [/Users/liufuwei/Documents/my-project/book_retail/book_retail_dao/target/classes/mappers/OrderInfoEntityMapper.xml]
+### The error may involve com.book.retail.dao.OrderInfoEntityMapper.getOrderDetailInfoByOrderId
+### The error occurred while executing a query
+### SQL: SELECT             ori.id AS orderId,             ori.created AS orderCreateTime,             ori.user_info_id AS userId,             uri.user_name AS userName,         CASE                 uri.user_type                 WHEN 1 THEN                 '金牌会员'                 WHEN 2 THEN                 '银牌会员' ELSE '铜牌会员'             END  AS userType,             ori.book_id AS bookId,             boi.book_name AS bookName,             boi.book_price AS price,             ori.num AS num,             ori.total_price AS totalPrice         FROM             order_info ori             INNER JOIN book_info boi ON boi.id = ori.book_id             AND boi.yn = 1             INNER JOIN user_info uri ON uri.id = ori.user_info_id             AND uri.yn = 1         WHERE             ori.yn = 1         AND             ori.id = ?
+### Cause: org.h2.jdbc.JdbcSQLException: Table "ORDER_INFO" not found; SQL statement:
+SELECT
+            ori.id AS orderId,
+            ori.created AS orderCreateTime,
+            ori.user_info_id AS userId,
+            uri.user_name AS userName,
+        CASE
+                uri.user_type
+                WHEN 1 THEN
+                '金牌会员'
+                WHEN 2 THEN
+                '银牌会员' ELSE '铜牌会员'
+            END  AS userType,
+            ori.book_id AS bookId,
+            boi.book_name AS bookName,
+            boi.book_price AS price,
+            ori.num AS num,
+            ori.total_price AS totalPrice
+        FROM
+            order_info ori
+            INNER JOIN book_info boi ON boi.id = ori.book_id
+            AND boi.yn = 1
+            INNER JOIN user_info uri ON uri.id = ori.user_info_id
+            AND uri.yn = 1
+        WHERE
+            ori.yn = 1
+        AND
+            ori.id = ? [42102-197]
+; bad SQL grammar []; nested exception is org.h2.jdbc.JdbcSQLException: Table "ORDER_INFO" not found; SQL statement:
+SELECT
+            ori.id AS orderId,
+            ori.created AS orderCreateTime,
+            ori.user_info_id AS userId,
+            uri.user_name AS userName,
+        CASE
+                uri.user_type
+                WHEN 1 THEN
+                '金牌会员'
+                WHEN 2 THEN
+                '银牌会员' ELSE '铜牌会员'
+            END  AS userType,
+            ori.book_id AS bookId,
+            boi.book_name AS bookName,
+            boi.book_price AS price,
+            ori.num AS num,
+            ori.total_price AS totalPrice
+        FROM
+            order_info ori
+            INNER JOIN book_info boi ON boi.id = ori.book_id
+            AND boi.yn = 1
+            INNER JOIN user_info uri ON uri.id = ori.user_info_id
+            AND uri.yn = 1
+        WHERE
+            ori.yn = 1
+        AND
+            ori.id = ? [42102-197]] with root cause
+org.h2.jdbc.JdbcSQLException: Table "ORDER_INFO" not found; SQL statement:
+SELECT
+            ori.id AS orderId,
+            ori.created AS orderCreateTime,
+            ori.user_info_id AS userId,
+            uri.user_name AS userName,
+        CASE
+                uri.user_type
+                WHEN 1 THEN
+                '金牌会员'
+                WHEN 2 THEN
+                '银牌会员' ELSE '铜牌会员'
+            END  AS userType,
+            ori.book_id AS bookId,
+            boi.book_name AS bookName,
+            boi.book_price AS price,
+            ori.num AS num,
+            ori.total_price AS totalPrice
+        FROM
+            order_info ori
+            INNER JOIN book_info boi ON boi.id = ori.book_id
+            AND boi.yn = 1
+            INNER JOIN user_info uri ON uri.id = ori.user_info_id
+            AND uri.yn = 1
+        WHERE
+            ori.yn = 1
+        AND
+            ori.id = ? [42102-197]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:357) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.message.DbException.get(DbException.java:179) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.message.DbException.get(DbException.java:155) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.readTableOrView(Parser.java:5920) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.readTableFilter(Parser.java:1430) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parseSelectSimpleFromPart(Parser.java:2138) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parseSelectSimple(Parser.java:2287) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parseSelectSub(Parser.java:2133) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parseSelectUnion(Parser.java:1946) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parseSelect(Parser.java:1919) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parsePrepared(Parser.java:463) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parse(Parser.java:335) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parse(Parser.java:307) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.prepareCommand(Parser.java:278) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.engine.Session.prepareLocal(Session.java:611) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.engine.Session.prepareCommand(Session.java:549) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1247) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:76) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:304) ~[h2-1.4.197.jar:1.4.197]
+	at com.zaxxer.hikari.pool.ProxyConnection.prepareStatement(ProxyConnection.java:311) ~[HikariCP-3.2.0.jar:?]
+	at com.zaxxer.hikari.pool.HikariProxyConnection.prepareStatement(HikariProxyConnection.java) ~[HikariCP-3.2.0.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at org.apache.ibatis.logging.jdbc.ConnectionLogger.invoke(ConnectionLogger.java:55) ~[mybatis-3.4.6.jar:3.4.6]
+	at com.sun.proxy.$Proxy109.prepareStatement(Unknown Source) ~[?:?]
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.instantiateStatement(PreparedStatementHandler.java:87) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.prepare(BaseStatementHandler.java:88) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.prepare(RoutingStatementHandler.java:59) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:85) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:326) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77) ~[mybatis-3.4.6.jar:3.4.6]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433) ~[mybatis-spring-1.3.2.jar:1.3.2]
+	at com.sun.proxy.$Proxy85.selectOne(Unknown Source) ~[?:?]
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:166) ~[mybatis-spring-1.3.2.jar:1.3.2]
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:83) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59) ~[mybatis-3.4.6.jar:3.4.6]
+	at com.sun.proxy.$Proxy93.getOrderDetailInfoByOrderId(Unknown Source) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139) ~[spring-tx-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at com.sun.proxy.$Proxy95.getOrderDetailInfoByOrderId(Unknown Source) ~[?:?]
+	at com.book.retail.service.impl.OrderInfoServiceImpl.getOrderDetailInfoByOrderId(OrderInfoServiceImpl.java:55) ~[classes/:?]
+	at com.book.retail.service.impl.OrderInfoServiceImpl$$FastClassBySpringCGLIB$$651ea27b.invoke(<generated>) ~[classes/:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218) ~[spring-core-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:684) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at com.book.retail.service.impl.OrderInfoServiceImpl$$EnhancerBySpringCGLIB$$3e45b26a.getOrderDetailInfoByOrderId(<generated>) ~[classes/:?]
+	at com.book.retail.web.controller.OrderInfoController.getOrderById(OrderInfoController.java:32) ~[classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_201]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
+17:11:19.362 [Thread-9] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+17:11:19.368 [Thread-9] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+17:11:25.742 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 4552 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:11:25.749 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:11:26.861 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:11:26.868 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:11:26.869 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:11:26.874 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:11:27.014 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:11:28.120 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:11:28.120 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:11:28.121 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:11:28.121 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:11:28.148 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:11:28.182 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 2.947 seconds (JVM running for 3.723)
+17:18:30.399 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 4690 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:18:30.407 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:18:31.753 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:18:31.761 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:18:31.762 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:18:31.769 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:18:31.929 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:18:33.257 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:18:33.257 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:18:33.258 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:18:33.258 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:18:33.286 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:18:33.322 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.552 seconds (JVM running for 4.369)
+17:20:25.946 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 4723 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:20:25.953 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:20:27.149 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:20:27.157 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:20:27.158 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:20:27.166 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:20:27.291 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:20:28.441 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:20:28.442 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:20:28.442 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:20:28.442 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:20:28.491 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:20:28.529 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.105 seconds (JVM running for 3.909)
+17:22:30.438 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 4800 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:22:30.443 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:22:31.713 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:22:31.720 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:22:31.720 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:22:31.726 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:22:31.802 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:22:31.947 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+17:22:32.033 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+17:22:32.084 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+17:22:32.165 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.7.Final}
+17:22:32.166 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+17:22:32.287 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+17:22:32.289 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+17:22:32.291 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+17:23:46.652 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 4820 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:23:46.659 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:23:47.992 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:23:48.000 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:23:48.001 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:23:48.009 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:23:48.199 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:23:49.605 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:23:49.606 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:23:49.607 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:23:49.607 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:23:49.638 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:23:49.674 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.563 seconds (JVM running for 4.406)
+17:28:05.083 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 5059 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:28:05.090 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:28:06.440 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:28:06.448 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:28:06.448 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:28:06.455 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:28:06.614 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:28:07.924 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:28:07.924 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:28:07.925 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:28:07.925 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:28:07.953 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:28:07.989 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.451 seconds (JVM running for 4.367)
+17:37:01.172 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 5213 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:37:01.179 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:37:02.559 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:37:02.566 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:37:02.567 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:37:02.574 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:37:02.741 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:37:04.084 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:37:04.084 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:37:04.085 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:37:04.085 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:37:04.115 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:37:04.154 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.591 seconds (JVM running for 4.498)
+17:48:41.327 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 5429 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:48:41.333 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:48:42.698 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:48:42.706 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:48:42.706 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:48:42.713 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:48:42.888 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:48:43.095 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+17:50:14.404 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 5460 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:50:14.410 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:50:15.825 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:50:15.833 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:50:15.833 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:50:15.840 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:50:16.016 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:50:16.213 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+17:52:46.212 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 5499 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:52:46.219 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:52:47.635 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:52:47.643 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:52:47.644 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:52:47.651 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:52:47.828 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:52:48.062 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+17:52:48.163 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+17:52:49.355 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:52:49.356 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:52:49.356 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:52:49.357 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:52:49.387 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:52:49.423 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.736 seconds (JVM running for 4.674)
+17:55:47.342 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+17:55:47.344 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+17:55:58.901 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 5573 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:55:58.908 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:56:00.163 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:56:00.171 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:56:00.171 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:56:00.177 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:56:00.254 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:56:00.356 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+17:56:00.439 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+17:56:00.591 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+17:56:00.661 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.7.Final}
+17:56:00.663 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+17:56:00.781 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+17:56:00.783 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+17:56:00.785 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+17:57:07.173 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 5606 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:57:07.179 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:57:08.505 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:57:08.512 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:57:08.513 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:57:08.520 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:57:08.683 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:57:08.890 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+17:57:08.995 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+17:57:10.213 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:57:10.213 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:57:10.215 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:57:10.215 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:57:10.245 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:57:10.286 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.691 seconds (JVM running for 4.502)
+17:58:27.687 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+17:58:27.690 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+17:58:48.656 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 5633 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+17:58:48.666 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+17:58:50.115 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+17:58:50.286 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+17:58:52.105 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:58:52.105 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:58:52.106 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:58:52.106 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:58:52.126 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 3.937 seconds (JVM running for 5.301)
+17:58:52.474 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+17:58:52.476 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+17:59:17.506 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 5647 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+17:59:17.513 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+17:59:23.056 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 5650 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+17:59:23.063 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+17:59:24.326 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+17:59:24.333 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:59:24.334 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+17:59:24.340 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+17:59:24.486 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:59:24.679 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+17:59:24.777 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+17:59:25.926 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+17:59:25.927 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+17:59:25.927 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+17:59:25.928 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+17:59:25.958 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+17:59:25.993 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.453 seconds (JVM running for 4.181)
+18:00:05.919 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 5665 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+18:00:05.926 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+18:00:07.405 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:00:07.586 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:00:09.533 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:00:09.534 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:00:09.535 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:00:09.535 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:00:09.559 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.188 seconds (JVM running for 5.124)
+18:00:09.979 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:00:09.981 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:01:09.730 [http-nio-8088-exec-8] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:01:50.300 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 5690 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+18:01:50.308 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+18:01:51.787 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:01:51.946 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:01:53.887 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:01:53.888 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:01:53.888 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:01:53.889 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:01:53.908 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 4.097 seconds (JVM running for 5.38)
+18:01:54.291 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:01:54.293 [Thread-13] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:01:54.295 [Thread-13] ERROR com.book.retail.BookInfoServiceTest - Thread-13=购买失败...购买数量：4
+18:01:54.295 [Thread-8] ERROR com.book.retail.BookInfoServiceTest - Thread-8=购买失败...购买数量：3
+18:01:54.296 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:01:54.296 [Thread-12] ERROR com.book.retail.BookInfoServiceTest - Thread-12=购买失败...购买数量：3
+18:01:54.302 [Thread-10] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:01:54.303 [Thread-10] ERROR com.book.retail.BookInfoServiceTest - Thread-10=购买失败...购买数量：3
+18:01:54.304 [Thread-5] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:2
+18:01:54.305 [Thread-5] ERROR com.book.retail.BookInfoServiceTest - Thread-5=购买失败...购买数量：2
+18:01:54.306 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:1
+18:01:54.307 [Thread-6] ERROR com.book.retail.BookInfoServiceTest - Thread-6=购买失败...购买数量：1
+18:01:54.308 [Thread-11] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:01:54.308 [Thread-11] ERROR com.book.retail.BookInfoServiceTest - Thread-11=购买失败...购买数量：5
+18:01:54.441 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:01:54.443 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:03:12.230 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 5728 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+18:03:12.236 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+18:03:13.794 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:03:13.962 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:03:15.889 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:03:15.890 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:03:15.891 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:03:15.891 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:03:15.913 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 4.168 seconds (JVM running for 5.091)
+18:03:16.287 [Thread-4] INFO  com.book.retail.BookInfoServiceTest - Thread-4=购买成功...购买数量：3
+18:03:16.291 [Thread-8] INFO  com.book.retail.BookInfoServiceTest - Thread-8=购买成功...购买数量：3
+18:03:16.294 [Thread-5] INFO  com.book.retail.BookInfoServiceTest - Thread-5=购买成功...购买数量：3
+18:03:16.296 [Thread-9] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:03:16.298 [Thread-10] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:03:16.298 [Thread-9] ERROR com.book.retail.BookInfoServiceTest - Thread-9=购买失败...购买数量：4
+18:03:16.298 [Thread-10] ERROR com.book.retail.BookInfoServiceTest - Thread-10=购买失败...购买数量：4
+18:03:16.300 [Thread-13] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:03:16.300 [Thread-13] ERROR com.book.retail.BookInfoServiceTest - Thread-13=购买失败...购买数量：5
+18:03:16.301 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:03:16.302 [Thread-6] ERROR com.book.retail.BookInfoServiceTest - Thread-6=购买失败...购买数量：3
+18:03:16.304 [Thread-7] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:03:16.304 [Thread-7] ERROR com.book.retail.BookInfoServiceTest - Thread-7=购买失败...购买数量：5
+18:03:16.305 [Thread-11] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:03:16.306 [Thread-11] ERROR com.book.retail.BookInfoServiceTest - Thread-11=购买失败...购买数量：5
+18:03:16.307 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:2
+18:03:16.308 [Thread-12] ERROR com.book.retail.BookInfoServiceTest - Thread-12=购买失败...购买数量：2
+18:03:16.400 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:03:16.402 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:04:04.409 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 5747 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+18:04:04.414 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+18:04:05.806 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:04:05.967 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:04:07.879 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:04:07.879 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:04:07.880 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:04:07.880 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:04:07.900 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 3.88 seconds (JVM running for 5.071)
+18:04:08.164 [Thread-11] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:04:08.166 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:04:08.166 [Thread-11] ERROR com.book.retail.BookInfoServiceTest - Thread-11=购买失败...购买数量：3
+18:04:08.167 [Thread-6] ERROR com.book.retail.BookInfoServiceTest - Thread-6=购买失败...购买数量：3
+18:04:08.168 [Thread-9] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:04:08.169 [Thread-9] ERROR com.book.retail.BookInfoServiceTest - Thread-9=购买失败...购买数量：3
+18:04:08.170 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:04:08.171 [Thread-12] ERROR com.book.retail.BookInfoServiceTest - Thread-12=购买失败...购买数量：4
+18:04:08.172 [Thread-13] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:04:08.173 [Thread-13] ERROR com.book.retail.BookInfoServiceTest - Thread-13=购买失败...购买数量：5
+18:04:08.174 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:04:08.175 [Thread-8] ERROR com.book.retail.BookInfoServiceTest - Thread-8=购买失败...购买数量：4
+18:04:08.176 [Thread-10] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:04:08.177 [Thread-10] ERROR com.book.retail.BookInfoServiceTest - Thread-10=购买失败...购买数量：3
+18:04:08.278 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:04:08.279 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:05:19.336 [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:05:19.338 [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:05:51.943 [main] INFO  com.book.retail.OrderInfoServiceTest - Starting OrderInfoServiceTest on LHPro.local with PID 5778 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+18:05:51.950 [main] INFO  com.book.retail.OrderInfoServiceTest - No active profile set, falling back to default profiles: default
+18:05:53.385 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:05:53.549 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:05:55.590 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:05:55.591 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:05:55.591 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:05:55.591 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:05:55.613 [main] INFO  com.book.retail.OrderInfoServiceTest - Started OrderInfoServiceTest in 4.187 seconds (JVM running for 5.44)
+18:06:06.156 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:06:06.159 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:06:37.995 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 5798 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+18:06:38.002 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+18:06:39.585 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:06:39.774 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:06:41.887 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:06:41.888 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:06:41.888 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:06:41.889 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:06:41.911 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 4.38 seconds (JVM running for 5.718)
+18:06:42.248 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:1
+18:06:42.249 [Thread-10] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:1
+18:06:42.251 [Thread-10] ERROR com.book.retail.BookInfoServiceTest - Thread-10=购买失败...购买数量：1
+18:06:42.251 [Thread-12] ERROR com.book.retail.BookInfoServiceTest - Thread-12=购买失败...购买数量：1
+18:06:42.252 [Thread-13] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:06:42.253 [Thread-13] ERROR com.book.retail.BookInfoServiceTest - Thread-13=购买失败...购买数量：4
+18:06:42.254 [Thread-4] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:06:42.255 [Thread-4] ERROR com.book.retail.BookInfoServiceTest - Thread-4=购买失败...购买数量：5
+18:06:42.257 [Thread-7] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:06:42.257 [Thread-7] ERROR com.book.retail.BookInfoServiceTest - Thread-7=购买失败...购买数量：5
+18:06:42.258 [Thread-9] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:06:42.259 [Thread-9] ERROR com.book.retail.BookInfoServiceTest - Thread-9=购买失败...购买数量：4
+18:06:42.260 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:2
+18:06:42.261 [Thread-6] ERROR com.book.retail.BookInfoServiceTest - Thread-6=购买失败...购买数量：2
+18:06:42.358 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:06:42.360 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:06:49.732 [main] INFO  com.book.retail.BookInfoServiceTest - Starting BookInfoServiceTest on LHPro.local with PID 5806 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+18:06:49.737 [main] INFO  com.book.retail.BookInfoServiceTest - No active profile set, falling back to default profiles: default
+18:06:51.053 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:06:51.213 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:06:52.983 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:06:52.984 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:06:52.984 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:06:52.984 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:06:53.004 [main] INFO  com.book.retail.BookInfoServiceTest - Started BookInfoServiceTest in 3.776 seconds (JVM running for 4.695)
+18:06:53.301 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:06:53.303 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:07:09.482 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 5817 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+18:07:09.487 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+18:07:10.775 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:07:10.936 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:07:12.613 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:07:12.613 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:07:12.614 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:07:12.614 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:07:12.635 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 3.604 seconds (JVM running for 4.439)
+18:07:12.914 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:07:12.915 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:07:41.019 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 5830 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+18:07:41.027 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+18:07:42.329 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+18:07:42.337 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+18:07:42.337 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+18:07:42.344 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+18:07:42.511 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:07:42.691 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:07:42.794 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:07:43.944 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:07:43.945 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:07:43.946 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:07:43.947 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:07:43.975 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+18:07:44.013 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.606 seconds (JVM running for 4.458)
+18:09:36.096 [http-nio-8088-exec-9] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:15:30.238 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:15:30.243 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:15:41.155 [main] INFO  com.book.retail.web.BookRetailApplication - Starting BookRetailApplication on LHPro.local with PID 5985 (/Users/liufuwei/Documents/my-project/book_retail/book_retail_web/target/classes started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail)
+18:15:41.161 [main] INFO  com.book.retail.web.BookRetailApplication - No active profile set, falling back to default profiles: default
+18:15:42.380 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+18:15:42.388 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+18:15:42.388 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.14]
+18:15:42.395 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/liufuwei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+18:15:42.535 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:15:42.711 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:15:42.797 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:15:43.858 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:15:43.858 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:15:43.859 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:15:43.859 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:15:43.889 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+18:15:43.922 [main] INFO  com.book.retail.web.BookRetailApplication - Started BookRetailApplication in 3.319 seconds (JVM running for 4.226)
+18:15:51.816 [http-nio-8088-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:18:09.399 [main] INFO  com.book.retail.UserInfoServiceTest - Starting UserInfoServiceTest on LHPro.local with PID 6043 (started by liufuwei in /Users/liufuwei/Documents/my-project/book_retail/book_retail_web)
+18:18:09.405 [main] INFO  com.book.retail.UserInfoServiceTest - No active profile set, falling back to default profiles: default
+18:18:10.982 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:18:11.177 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:18:13.060 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+18:18:13.061 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+18:18:13.062 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+18:18:13.062 [main] INFO  tk.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+18:18:13.083 [main] INFO  com.book.retail.UserInfoServiceTest - Started UserInfoServiceTest in 4.11 seconds (JVM running for 5.459)
+18:18:13.401 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:18:13.403 [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:18:38.762 [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:18:38.766 [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

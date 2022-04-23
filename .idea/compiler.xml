@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="book_retail_web" />
+        <module name="book_retail_common" />
+        <module name="book_retail_domain" />
+        <module name="book_retail_service" />
+        <module name="book_retail_dao" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="book_retail_common" options="-parameters" />
+      <module name="book_retail_dao" options="-parameters" />
+      <module name="book_retail_domain" options="-parameters" />
+      <module name="book_retail_service" options="-parameters" />
+      <module name="book_retail_web" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,333 @@
+14:18:47.500 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53s541ms).
+14:20:32.541 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47s557ms).
+15:20:27.669 [Thread-21] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.674 [Thread-22] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.676 [Thread-7] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.680 [Thread-17] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.685 [Thread-20] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.736 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.738 [Thread-15] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.740 [Thread-4] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.743 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:20:27.746 [Thread-3] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:13...num:1
+15:49:39.381 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:4
+15:49:39.383 [Thread-11] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:4
+15:49:39.386 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:3
+15:49:39.392 [Thread-7] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:2
+15:49:39.395 [Thread-4] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:4
+15:49:39.398 [Thread-9] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:1
+15:49:39.400 [Thread-3] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:15...num:4
+15:51:17.006 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:16...num:3
+15:51:17.017 [Thread-3] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:16...num:2
+15:51:17.019 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:16...num:3
+15:53:38.527 [Thread-3] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:17...num:4
+15:53:38.529 [Thread-3] ERROR com.book.retail.BookInfoServiceTest - Thread-3购买失败...购买数量：4
+15:53:38.532 [Thread-7] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:17...num:5
+15:53:38.533 [Thread-7] ERROR com.book.retail.BookInfoServiceTest - Thread-7购买失败...购买数量：5
+15:53:38.540 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:17...num:5
+15:53:38.540 [Thread-8] ERROR com.book.retail.BookInfoServiceTest - Thread-8购买失败...购买数量：5
+15:55:31.500 [Thread-11] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:3
+15:55:31.502 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:4
+15:55:31.503 [Thread-11] ERROR com.book.retail.BookInfoServiceTest - Thread-11=购买失败...购买数量：3
+15:55:31.503 [Thread-6] ERROR com.book.retail.BookInfoServiceTest - Thread-6=购买失败...购买数量：4
+15:55:31.505 [Thread-10] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:1
+15:55:31.506 [Thread-10] ERROR com.book.retail.BookInfoServiceTest - Thread-10=购买失败...购买数量：1
+15:55:31.507 [Thread-5] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:4
+15:55:31.509 [Thread-5] ERROR com.book.retail.BookInfoServiceTest - Thread-5=购买失败...购买数量：4
+15:55:31.510 [Thread-3] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:3
+15:55:31.511 [Thread-3] ERROR com.book.retail.BookInfoServiceTest - Thread-3=购买失败...购买数量：3
+15:55:31.513 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:18...num:1
+15:55:31.514 [Thread-12] ERROR com.book.retail.BookInfoServiceTest - Thread-12=购买失败...购买数量：1
+17:09:03.775 [http-nio-8088-exec-7] ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: org.h2.jdbc.JdbcSQLException: Table "ORDER_INFO" not found; SQL statement:
+SELECT
+            ori.id AS orderId,
+            ori.created AS orderCreateTime,
+            ori.user_info_id AS userId,
+            uri.user_name AS userName,
+        CASE
+                uri.user_type
+                WHEN 1 THEN
+                '金牌会员'
+                WHEN 2 THEN
+                '银牌会员' ELSE '铜牌会员'
+            END  AS userType,
+            ori.book_id AS bookId,
+            boi.book_name AS bookName,
+            boi.book_price AS price,
+            ori.num AS num,
+            ori.total_price AS totalPrice
+        FROM
+            order_info ori
+            INNER JOIN book_info boi ON boi.id = ori.book_id
+            AND boi.yn = 1
+            INNER JOIN user_info uri ON uri.id = ori.user_info_id
+            AND uri.yn = 1
+        WHERE
+            ori.yn = 1
+        AND
+            ori.id = ? [42102-197]
+### The error may exist in file [/Users/liufuwei/Documents/my-project/book_retail/book_retail_dao/target/classes/mappers/OrderInfoEntityMapper.xml]
+### The error may involve com.book.retail.dao.OrderInfoEntityMapper.getOrderDetailInfoByOrderId
+### The error occurred while executing a query
+### SQL: SELECT             ori.id AS orderId,             ori.created AS orderCreateTime,             ori.user_info_id AS userId,             uri.user_name AS userName,         CASE                 uri.user_type                 WHEN 1 THEN                 '金牌会员'                 WHEN 2 THEN                 '银牌会员' ELSE '铜牌会员'             END  AS userType,             ori.book_id AS bookId,             boi.book_name AS bookName,             boi.book_price AS price,             ori.num AS num,             ori.total_price AS totalPrice         FROM             order_info ori             INNER JOIN book_info boi ON boi.id = ori.book_id             AND boi.yn = 1             INNER JOIN user_info uri ON uri.id = ori.user_info_id             AND uri.yn = 1         WHERE             ori.yn = 1         AND             ori.id = ?
+### Cause: org.h2.jdbc.JdbcSQLException: Table "ORDER_INFO" not found; SQL statement:
+SELECT
+            ori.id AS orderId,
+            ori.created AS orderCreateTime,
+            ori.user_info_id AS userId,
+            uri.user_name AS userName,
+        CASE
+                uri.user_type
+                WHEN 1 THEN
+                '金牌会员'
+                WHEN 2 THEN
+                '银牌会员' ELSE '铜牌会员'
+            END  AS userType,
+            ori.book_id AS bookId,
+            boi.book_name AS bookName,
+            boi.book_price AS price,
+            ori.num AS num,
+            ori.total_price AS totalPrice
+        FROM
+            order_info ori
+            INNER JOIN book_info boi ON boi.id = ori.book_id
+            AND boi.yn = 1
+            INNER JOIN user_info uri ON uri.id = ori.user_info_id
+            AND uri.yn = 1
+        WHERE
+            ori.yn = 1
+        AND
+            ori.id = ? [42102-197]
+; bad SQL grammar []; nested exception is org.h2.jdbc.JdbcSQLException: Table "ORDER_INFO" not found; SQL statement:
+SELECT
+            ori.id AS orderId,
+            ori.created AS orderCreateTime,
+            ori.user_info_id AS userId,
+            uri.user_name AS userName,
+        CASE
+                uri.user_type
+                WHEN 1 THEN
+                '金牌会员'
+                WHEN 2 THEN
+                '银牌会员' ELSE '铜牌会员'
+            END  AS userType,
+            ori.book_id AS bookId,
+            boi.book_name AS bookName,
+            boi.book_price AS price,
+            ori.num AS num,
+            ori.total_price AS totalPrice
+        FROM
+            order_info ori
+            INNER JOIN book_info boi ON boi.id = ori.book_id
+            AND boi.yn = 1
+            INNER JOIN user_info uri ON uri.id = ori.user_info_id
+            AND uri.yn = 1
+        WHERE
+            ori.yn = 1
+        AND
+            ori.id = ? [42102-197]] with root cause
+org.h2.jdbc.JdbcSQLException: Table "ORDER_INFO" not found; SQL statement:
+SELECT
+            ori.id AS orderId,
+            ori.created AS orderCreateTime,
+            ori.user_info_id AS userId,
+            uri.user_name AS userName,
+        CASE
+                uri.user_type
+                WHEN 1 THEN
+                '金牌会员'
+                WHEN 2 THEN
+                '银牌会员' ELSE '铜牌会员'
+            END  AS userType,
+            ori.book_id AS bookId,
+            boi.book_name AS bookName,
+            boi.book_price AS price,
+            ori.num AS num,
+            ori.total_price AS totalPrice
+        FROM
+            order_info ori
+            INNER JOIN book_info boi ON boi.id = ori.book_id
+            AND boi.yn = 1
+            INNER JOIN user_info uri ON uri.id = ori.user_info_id
+            AND uri.yn = 1
+        WHERE
+            ori.yn = 1
+        AND
+            ori.id = ? [42102-197]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:357) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.message.DbException.get(DbException.java:179) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.message.DbException.get(DbException.java:155) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.readTableOrView(Parser.java:5920) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.readTableFilter(Parser.java:1430) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parseSelectSimpleFromPart(Parser.java:2138) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parseSelectSimple(Parser.java:2287) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parseSelectSub(Parser.java:2133) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parseSelectUnion(Parser.java:1946) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parseSelect(Parser.java:1919) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parsePrepared(Parser.java:463) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parse(Parser.java:335) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.parse(Parser.java:307) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.command.Parser.prepareCommand(Parser.java:278) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.engine.Session.prepareLocal(Session.java:611) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.engine.Session.prepareCommand(Session.java:549) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1247) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:76) ~[h2-1.4.197.jar:1.4.197]
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:304) ~[h2-1.4.197.jar:1.4.197]
+	at com.zaxxer.hikari.pool.ProxyConnection.prepareStatement(ProxyConnection.java:311) ~[HikariCP-3.2.0.jar:?]
+	at com.zaxxer.hikari.pool.HikariProxyConnection.prepareStatement(HikariProxyConnection.java) ~[HikariCP-3.2.0.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at org.apache.ibatis.logging.jdbc.ConnectionLogger.invoke(ConnectionLogger.java:55) ~[mybatis-3.4.6.jar:3.4.6]
+	at com.sun.proxy.$Proxy109.prepareStatement(Unknown Source) ~[?:?]
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.instantiateStatement(PreparedStatementHandler.java:87) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.prepare(BaseStatementHandler.java:88) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.prepare(RoutingStatementHandler.java:59) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:85) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:326) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77) ~[mybatis-3.4.6.jar:3.4.6]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433) ~[mybatis-spring-1.3.2.jar:1.3.2]
+	at com.sun.proxy.$Proxy85.selectOne(Unknown Source) ~[?:?]
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:166) ~[mybatis-spring-1.3.2.jar:1.3.2]
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:83) ~[mybatis-3.4.6.jar:3.4.6]
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59) ~[mybatis-3.4.6.jar:3.4.6]
+	at com.sun.proxy.$Proxy93.getOrderDetailInfoByOrderId(Unknown Source) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139) ~[spring-tx-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at com.sun.proxy.$Proxy95.getOrderDetailInfoByOrderId(Unknown Source) ~[?:?]
+	at com.book.retail.service.impl.OrderInfoServiceImpl.getOrderDetailInfoByOrderId(OrderInfoServiceImpl.java:55) ~[classes/:?]
+	at com.book.retail.service.impl.OrderInfoServiceImpl$$FastClassBySpringCGLIB$$651ea27b.invoke(<generated>) ~[classes/:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218) ~[spring-core-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:684) ~[spring-aop-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at com.book.retail.service.impl.OrderInfoServiceImpl$$EnhancerBySpringCGLIB$$3e45b26a.getOrderDetailInfoByOrderId(<generated>) ~[classes/:?]
+	at com.book.retail.web.controller.OrderInfoController.getOrderById(OrderInfoController.java:32) ~[classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.4.RELEASE.jar:5.1.4.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_201]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.14.jar:9.0.14]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
+18:01:54.291 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:01:54.293 [Thread-13] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:01:54.295 [Thread-13] ERROR com.book.retail.BookInfoServiceTest - Thread-13=购买失败...购买数量：4
+18:01:54.295 [Thread-8] ERROR com.book.retail.BookInfoServiceTest - Thread-8=购买失败...购买数量：3
+18:01:54.296 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:01:54.296 [Thread-12] ERROR com.book.retail.BookInfoServiceTest - Thread-12=购买失败...购买数量：3
+18:01:54.302 [Thread-10] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:01:54.303 [Thread-10] ERROR com.book.retail.BookInfoServiceTest - Thread-10=购买失败...购买数量：3
+18:01:54.304 [Thread-5] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:2
+18:01:54.305 [Thread-5] ERROR com.book.retail.BookInfoServiceTest - Thread-5=购买失败...购买数量：2
+18:01:54.306 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:1
+18:01:54.307 [Thread-6] ERROR com.book.retail.BookInfoServiceTest - Thread-6=购买失败...购买数量：1
+18:01:54.308 [Thread-11] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:01:54.308 [Thread-11] ERROR com.book.retail.BookInfoServiceTest - Thread-11=购买失败...购买数量：5
+18:03:16.296 [Thread-9] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:03:16.298 [Thread-10] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:03:16.298 [Thread-9] ERROR com.book.retail.BookInfoServiceTest - Thread-9=购买失败...购买数量：4
+18:03:16.298 [Thread-10] ERROR com.book.retail.BookInfoServiceTest - Thread-10=购买失败...购买数量：4
+18:03:16.300 [Thread-13] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:03:16.300 [Thread-13] ERROR com.book.retail.BookInfoServiceTest - Thread-13=购买失败...购买数量：5
+18:03:16.301 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:03:16.302 [Thread-6] ERROR com.book.retail.BookInfoServiceTest - Thread-6=购买失败...购买数量：3
+18:03:16.304 [Thread-7] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:03:16.304 [Thread-7] ERROR com.book.retail.BookInfoServiceTest - Thread-7=购买失败...购买数量：5
+18:03:16.305 [Thread-11] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:03:16.306 [Thread-11] ERROR com.book.retail.BookInfoServiceTest - Thread-11=购买失败...购买数量：5
+18:03:16.307 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:2
+18:03:16.308 [Thread-12] ERROR com.book.retail.BookInfoServiceTest - Thread-12=购买失败...购买数量：2
+18:04:08.164 [Thread-11] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:04:08.166 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:04:08.166 [Thread-11] ERROR com.book.retail.BookInfoServiceTest - Thread-11=购买失败...购买数量：3
+18:04:08.167 [Thread-6] ERROR com.book.retail.BookInfoServiceTest - Thread-6=购买失败...购买数量：3
+18:04:08.168 [Thread-9] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:04:08.169 [Thread-9] ERROR com.book.retail.BookInfoServiceTest - Thread-9=购买失败...购买数量：3
+18:04:08.170 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:04:08.171 [Thread-12] ERROR com.book.retail.BookInfoServiceTest - Thread-12=购买失败...购买数量：4
+18:04:08.172 [Thread-13] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:04:08.173 [Thread-13] ERROR com.book.retail.BookInfoServiceTest - Thread-13=购买失败...购买数量：5
+18:04:08.174 [Thread-8] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:04:08.175 [Thread-8] ERROR com.book.retail.BookInfoServiceTest - Thread-8=购买失败...购买数量：4
+18:04:08.176 [Thread-10] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:3
+18:04:08.177 [Thread-10] ERROR com.book.retail.BookInfoServiceTest - Thread-10=购买失败...购买数量：3
+18:06:42.248 [Thread-12] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:1
+18:06:42.249 [Thread-10] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:1
+18:06:42.251 [Thread-10] ERROR com.book.retail.BookInfoServiceTest - Thread-10=购买失败...购买数量：1
+18:06:42.251 [Thread-12] ERROR com.book.retail.BookInfoServiceTest - Thread-12=购买失败...购买数量：1
+18:06:42.252 [Thread-13] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:06:42.253 [Thread-13] ERROR com.book.retail.BookInfoServiceTest - Thread-13=购买失败...购买数量：4
+18:06:42.254 [Thread-4] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:06:42.255 [Thread-4] ERROR com.book.retail.BookInfoServiceTest - Thread-4=购买失败...购买数量：5
+18:06:42.257 [Thread-7] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:5
+18:06:42.257 [Thread-7] ERROR com.book.retail.BookInfoServiceTest - Thread-7=购买失败...购买数量：5
+18:06:42.258 [Thread-9] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:4
+18:06:42.259 [Thread-9] ERROR com.book.retail.BookInfoServiceTest - Thread-9=购买失败...购买数量：4
+18:06:42.260 [Thread-6] ERROR com.book.retail.service.impl.BookInfoServiceImpl - BookInfoService.updateBookNum error...bookId:6...num:2
+18:06:42.261 [Thread-6] ERROR com.book.retail.BookInfoServiceTest - Thread-6=购买失败...购买数量：2

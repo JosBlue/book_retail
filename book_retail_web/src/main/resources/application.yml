@@ -1,0 +1,65 @@
+server:
+  port: 8088
+  servlet:
+    context-path: /
+
+logging:
+  config: classpath:log4j2-spring.xml
+  level:
+    com.book.retail.dao: debug
+
+spring:
+  #mysql
+  datasource:
+    hikari:
+      #池中最大连接数，包括闲置和使用中的连接
+      maximum-pool-size: 20
+      #池中维护的最小空闲连接数，最好不设置，和max一致
+      #minimum-idle: 10
+      data-source-properties: {cachePrepStmts: true,prepStmtCacheSize: 250,prepStmtCacheSqlLimit: 2048}
+    url: jdbc:h2:mem:test
+    driver-class-name: org.h2.Driver
+    username: root
+    password: 123456
+    schema: classpath:db/schema.sql
+    data: classpath:db/db.sql
+  h2:
+    console:
+      enabled: true
+      path: /h2
+      settings:
+        web-allow-others: true
+  jpa:
+    properties:
+      hibernate:
+        hbm2ddl:
+          auto: update
+      dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+    #启用SQL语句的日志记录
+    show-sql: true
+
+
+
+
+# mybatis_config
+mybatis:
+  mapper-locations: classpath:/mappers/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+  type-aliases-package: com.book.retail.dao
+mapper:
+  mappers: com.book.retail.domain.base.BookRetailBaseMapper
+  not-empty: false
+  i-d-e-n-t-i-t-y: MYSQL
+#mybatis 分页配置
+pagehelper:
+  helperDialect: mysql
+  reasonable: true
+  supportMethodsArguments: true
+  params: count=countSql
+  offset-as-page-num: true
+  row-bounds-with-count: true
+
+#是否启用swagger
+swagger:
+  enable: true

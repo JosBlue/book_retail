@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.book.retail.dao.OrderInfoEntityMapper">
+
+    <select id="getOrderDetailInfo" resultType="com.book.retail.domain.vo.OrderDetailInfoVO">
+        SELECT
+            ori.id AS orderId,
+            ori.created AS orderCreateTime,
+            ori.user_info_id AS userId,
+            uri.user_name AS userName,
+        CASE
+                uri.user_type
+                WHEN 1 THEN
+                '金牌会员'
+                WHEN 2 THEN
+                '银牌会员' ELSE '铜牌会员'
+            END  AS userType,
+            ori.book_id AS bookId,
+            boi.book_name AS bookName,
+            boi.book_price AS price,
+            ori.num AS num,
+            ori.total_price AS totalPrice
+        FROM
+            order_info ori
+            INNER JOIN book_info boi ON boi.id = ori.book_id
+            AND boi.yn = 1
+            INNER JOIN user_info uri ON uri.id = ori.user_info_id
+            AND uri.yn = 1
+        WHERE
+            ori.yn = 1
+        ORDER BY
+	        ori.id ASC
+    </select>
+
+    <select id="getOrderDetailInfoByOrderId" resultType="com.book.retail.domain.vo.OrderDetailInfoVO">
+        SELECT
+            ori.id AS orderId,
+            ori.created AS orderCreateTime,
+            ori.user_info_id AS userId,
+            uri.user_name AS userName,
+        CASE
+                uri.user_type
+                WHEN 1 THEN
+                '金牌会员'
+                WHEN 2 THEN
+                '银牌会员' ELSE '铜牌会员'
+            END  AS userType,
+            ori.book_id AS bookId,
+            boi.book_name AS bookName,
+            boi.book_price AS price,
+            ori.num AS num,
+            ori.total_price AS totalPrice
+        FROM
+            order_info ori
+            INNER JOIN book_info boi ON boi.id = ori.book_id
+            AND boi.yn = 1
+            INNER JOIN user_info uri ON uri.id = ori.user_info_id
+            AND uri.yn = 1
+        WHERE
+            ori.yn = 1
+        AND
+            ori.id = #{orderId}
+    </select>
+</mapper>
