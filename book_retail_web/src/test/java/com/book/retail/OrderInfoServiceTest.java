@@ -61,7 +61,7 @@ public class OrderInfoServiceTest {
         OrderInfoDTO orderInfoDTO = new OrderInfoDTO();
         orderInfoDTO.setBookId(bookId);
         orderInfoDTO.setNum(byBookNum);
-        orderInfoDTO.setUserInfoId(userId);
+        orderInfoDTO.setUserId(userId);
         orderInfoDTO.setUserName(userInfoDTO.getUserName());
         Boolean flag = this.orderInfoService.submitOrder(orderInfoDTO);
 

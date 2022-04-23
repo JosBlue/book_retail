@@ -75,10 +75,10 @@ public class OrderInfoServiceImpl implements OrderInfoService {
             BigDecimal totalPrice = this.createOrder(orderInfoDTO, bookInfoDTO.getPrice());
 
             // 计算用户成员点
-            BigDecimal score = this.userInfoService.calculateUserScore(orderInfoDTO.getUserInfoId(), totalPrice);
+            BigDecimal score = this.userInfoService.calculateUserScore(orderInfoDTO.getUserId(), totalPrice);
 
             // 更新用户成员点信息
-            this.userInfoService.updateUserScoreByUserId(orderInfoDTO.getUserInfoId(), score);
+            this.userInfoService.updateUserScoreByUserId(orderInfoDTO.getUserId(), score);
 
         } catch (Exception e) {
             log.error("OrderInfoService.submitOrder error...param:{}", JSON.toJSONString(orderInfoDTO));

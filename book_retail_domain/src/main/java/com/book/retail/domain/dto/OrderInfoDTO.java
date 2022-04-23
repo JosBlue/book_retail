@@ -23,7 +23,7 @@ public class OrderInfoDTO {
     /**
      * 用户表id
      */
-    Long userInfoId;
+    Long userId;
 
     /**
      * 用户名称

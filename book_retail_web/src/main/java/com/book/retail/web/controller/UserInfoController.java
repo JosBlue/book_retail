@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 @RequestMapping("/user")
-public class UserInfoController extends BaseController {
+public class UserInfoController {
 
     @Autowired
     UserInfoService userInfoService;
